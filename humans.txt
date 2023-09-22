@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+#This is done for the human mandkind 
 # TEAM
 
     <name> -- <role> -- <twitter>
