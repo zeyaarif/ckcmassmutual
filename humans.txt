@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 #This is done for the human mandkind 
+# change done by chandan for issue # 1212
 # TEAM
 
     <name> -- <role> -- <twitter>
